@@ -2,7 +2,7 @@
 The purpose of this challenge is to get insights into how well the candidate handles technologies common to modern frontend development. The challenge is imaginary and attempts to be exciting.
 
 ## The Challenge
-A potential client has just discovered her fascination of Space X’s rockets and development into space. She dreams of one day setting foot on Mars in a Space X commercial tourist spaceship. The client contacted us and decided she needs an app to keep an eye on Space X’s launches. She came up with a list of requirements, too! The app requirements is listed below.
+A potential client has just discovered her fascination of SpaceX’s rockets and development into space. She dreams of one day setting foot on Mars in a SpaceX commercial tourist spaceship. The client contacted us and decided she needs an app to keep an eye on SpaceX’s launches. She came up with a list of requirements, too! The app requirements is listed below.
 
 ### Functional requirements
 * A countdown until the next launch. The countdown should be displayed in the format `[days]d [hours]t [minutes]m [seconds]s` - for example `0d 3h 51m 45s`. When the countdown reaches zero, it should display "Launched".
